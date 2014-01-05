@@ -1,0 +1,2 @@
+﻿publc class User {
+}
